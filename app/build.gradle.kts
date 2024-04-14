@@ -53,8 +53,5 @@ dependencies {
 
 
 
-//    configurations.implementation{
-//        exclude("core-1.9.0-runtime" ,"androidx.core")
-//
-//    }
+
 }
